@@ -1,0 +1,17 @@
+.nav-img{
+    width: 100px;
+    height: 100px;
+}
+
+.footer-img{
+    width: 150px;
+    height: 150px;
+}
+
+.carousel .carousel-indicators button{
+    width: 1rem;
+    height: 1rem;
+    border-radius: 100%;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
